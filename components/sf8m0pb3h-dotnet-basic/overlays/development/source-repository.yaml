@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sf8m0pb3h-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/sf8m0pb3h-dotnet-basic
